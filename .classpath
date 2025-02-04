@@ -6,6 +6,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="src/libs/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="src/Libs/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="src/Libs/jbcrypt-0.4.jar"/>
+	<classpathentry kind="lib" path="src/Libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="src/Libs/javax.mail.jar"/>
+	<classpathentry kind="lib" path="src/Libs/jakarta.activation.jar"/>
+	<classpathentry kind="lib" path="src/Libs/commons-lang3-3.13.0.jar"/>
+	<classpathentry kind="lib" path="src/Libs/miglayout15-swing.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

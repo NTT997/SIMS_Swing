@@ -1,4 +1,4 @@
-package models;
+package Models;
 
 import java.sql.*;
 
@@ -9,7 +9,7 @@ public class ConnectDB {
 	public static Connection connection() {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/sims", "root", "");
+			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/WarehouseManagementSoftwareForSales", "root", "");
 		} catch (Exception e) {
 			e.printStackTrace();
 			connection = null;

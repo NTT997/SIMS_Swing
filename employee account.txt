@@ -1,0 +1,20 @@
++pos1 {
+admin
+admin
+}
+
++pos 2 {
+warehouse
+warehouse
+}
+
++pos3 {
+minhthan13
+123
+}
+
++pos 4{
+salemen
+salemen
+}
+
